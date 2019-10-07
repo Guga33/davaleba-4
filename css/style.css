@@ -1,0 +1,85 @@
+/*base classes*/
+.container{
+	width: 1170px;
+	margin:0 auto;
+}
+.inline-block{
+	display: inline-block;
+}
+
+/*end base classes*/
+
+/*header*/
+.main-logo{
+	width: 100px;
+	margin: 30px 50px 20px 30px;
+	vertical-align: middle;
+}
+.nav-li{
+	margin-right: 24px;
+	margin-top: 30px;
+	font-size: 22px;
+
+}
+.navigation{
+
+}
+.banner{
+	width: 1170px;
+}
+.active{
+	color: #EE4036;
+}
+.title-above-main-banner{
+	margin-top: 124px;
+	font-size: 24px;
+}
+.nav-a{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	
+}
+/*end header*/
+/*feautured section*/
+.grey-box{
+	width: 570px;
+	background-color: #F2F2F2;
+	padding: 18px 7px 41px 18px;
+	vertical-align: top;
+}
+.little-p{
+	width: 355px;
+	font-size: 20px;
+	line-height: 26px;
+}
+.article-wrapper{
+	margin-top: 36px;
+}
+.image-little{
+	height: 130px;
+	vertical-align: top;
+	margin-right: 60px;
+}
+.artic-marg{
+	margin-right: 25px;
+}
+.satauri1{
+	margin-bottom: 15px;
+}
+.zeda-satauri{
+	font-size: 22px;
+}
+.divider{
+	display: inline-block;
+	background-color:   #3D58A6;
+	width: 1px;
+	height: 26px;
+	margin-right: 20px;
+}
+.lil-icons{
+	margin-right: 20px;
+	margin-top: 30px;
+}
+.footer-box{
+	margin-bottom: 26`px;
+}
+/*end feautured section*/
