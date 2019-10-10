@@ -5,6 +5,7 @@
 }
 .inline-block{
 	display: inline-block;
+
 }
 
 /*end base classes*/
@@ -13,15 +14,18 @@
 .main-logo{
 	width: 100px;
 	margin: 30px 50px 20px 30px;
-	vertical-align: middle;
+	vertical-align: top;
 }
 .nav-li{
 	margin-right: 24px;
-	margin-top: 30px;
 	font-size: 22px;
+	margin-top: 37px;
 
 }
 .navigation{
+
+}
+.nav-ul{
 
 }
 .banner{
@@ -33,6 +37,8 @@
 .title-above-main-banner{
 	margin-top: 124px;
 	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	color: black;
 }
 .nav-a{
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
@@ -50,6 +56,7 @@
 	width: 355px;
 	font-size: 20px;
 	line-height: 26px;
+	font-family: 'Roboto', sans-serif;
 }
 .article-wrapper{
 	margin-top: 36px;
@@ -67,6 +74,9 @@
 }
 .zeda-satauri{
 	font-size: 22px;
+	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
+
 }
 .divider{
 	display: inline-block;
@@ -80,6 +90,47 @@
 	margin-top: 30px;
 }
 .footer-box{
-	margin-bottom: 26`px;
+	margin-bottom: 26px;
+	margin-top: 68px;
 }
+.footer-div{
+}
+.contact-h{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-size: 20px;
+	color: #3D58A6;
+
+}
+.contact-span{
+	color: #808080;
+	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+}
+.contact-a{
+	color: black;
+}
+.contact-section{
+	background-color: #E6E6E6;
+	padding-bottom: 55px;
+	padding-top: 49px;
+}
+.contact-ul{
+	line-height: 19.57px;
+}
+.geo-map{
+	width: 874px; 
+	height: 466px;
+}
+.left-cont{
+	vertical-align: top;
+	margin-right: 40px;
+}
+.black-carcera{
+	color: black;
+}
+.footer-box-3{
+	margin-top: 31px;
+	padding-bottom: 26px;
+}
+
 /*end feautured section*/
