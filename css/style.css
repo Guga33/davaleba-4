@@ -3,11 +3,17 @@
 	width: 1170px;
 	margin:0 auto;
 }
+.container-2{
+	width: 1300px;
+	margin:0 auto;
+}
 .inline-block{
 	display: inline-block;
 
 }
-
+.margin-top{
+	margin-top: 50px;
+}
 /*end base classes*/
 
 /*header*/
@@ -134,3 +140,64 @@
 }
 
 /*end feautured section*/
+/*meore gverdi*/
+.blue-box{
+	width: 56px;
+	height: 56px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	background-color: #3D58A6;
+	color: white;
+	font-size: 48px;
+	padding:6px;
+	margin-top: 40px;
+
+}
+.box-p{
+	font-size: 22px;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin-top: 10.5px;
+}
+.h-article-1{
+	font-size: 20px;
+	color: black;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin-top: 31px;
+	margin-bottom: 22.5px;
+
+}
+.article-carcerebi{
+	width: 929px;
+	font-size: 16px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+	line-height: 18.8px;
+
+}
+.article-img{
+	vertical-align: top;
+	width: 270px;
+	margin-right: 38px;
+}
+.section3{
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*end meore gverdi*/
