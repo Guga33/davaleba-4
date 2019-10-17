@@ -14,6 +14,16 @@
 .margin-top{
 	margin-top: 50px;
 }
+.sticky1{
+	position: sticky;
+	top: 0;
+	background-color: white;
+	z-index: 10;
+}
+.sticky{
+	position: sticky;
+	top: 80px;
+}
 /*end base classes*/
 
 /*header*/
@@ -100,6 +110,7 @@
 	margin-top: 68px;
 }
 .footer-div{
+	margin-bottom: 50px;
 }
 .contact-h{
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
